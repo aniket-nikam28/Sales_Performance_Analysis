@@ -34,7 +34,7 @@ The dataset consists of 6 Excel sheets:
 
 ---
 
-## 🗂️ Data Preprocessing Steps
+## 🗂 Data Preprocessing Steps
 
 -  Merged 6 sheets into a unified sales dataset  
 -  Handled missing budgets and corrected schema  
@@ -53,13 +53,13 @@ The dataset consists of 6 Excel sheets:
 
 | Visualization          | Insight                                          |
 | ---------------------- | ------------------------------------------------ |
-| 📉 Monthly Sales Trend | Revenue stability with early 2024 dip            |
-| 📊 Top 10 Products     | Products 26, 25, 13 lead in revenue              |
-| 🧭 Regional Sales      | West & South dominate revenue                    |
-| 🥧 Channel Mix         | Wholesale (54%), Distributor (31%), Export (15%) |
-| 📦 Product Pricing     | Scatter of unit price vs. profit margin          |
-| 🧮 Correlation Matrix  | Relationships between key numerical variables    |
-| 🌎 USA Choropleth      | Revenue by state with Plotly                     |
+|  Monthly Sales Trend | Revenue stability with early 2024 dip            |
+|  Top 10 Products     | Products 26, 25, 13 lead in revenue              |
+|  Regional Sales      | West & South dominate revenue                    |
+|  Channel Mix         | Wholesale (54%), Distributor (31%), Export (15%) |
+|  Product Pricing     | Scatter of unit price vs. profit margin          |
+|  Correlation Matrix  | Relationships between key numerical variables    |
+|  USA Choropleth      | Revenue by state with Plotly                     |
 
 ---
 
@@ -78,20 +78,20 @@ The dataset consists of 6 Excel sheets:
 
 ---
 
-## 🧠 Key Insights
+##  Key Insights
 
-- 📉 **2024 Dip**: Early 2024 shows a sharp revenue drop (~$21.2M)  
-- 📦 **Channel Breakdown**:  
+-  **2024 Dip**: Early 2024 shows a sharp revenue drop (~$21.2M)  
+-  **Channel Breakdown**:  
   - Wholesale: **54%**  
   - Distributors: **31%**  
   - Export: **15%**  
-- 💰 **Top Products**:  
+-  **Top Products**:  
   - Product 26: 117M  
   - Product 25: 109M  
-- 🌍 **Top States**:  
+-  **Top States**:  
   - California: ~230M, 7500+ orders  
   - Texas, Illinois, Florida: 85M–110M  
-- 📊 **Profit Margins**: Ranges from 18–60%, independent of unit price  
+-  **Profit Margins**: Ranges from 18–60%, independent of unit price  
 
 ---
 
